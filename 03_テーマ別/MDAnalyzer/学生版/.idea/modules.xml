@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/MDAnalyzer_ver4.0.iml" filepath="$PROJECT_DIR$/.idea/MDAnalyzer_ver4.0.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/学生版.iml" filepath="$PROJECT_DIR$/.idea/学生版.iml" />
     </modules>
   </component>
 </project>
