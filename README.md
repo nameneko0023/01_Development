@@ -1,2 +1,1 @@
-# 01_Development
-Portfolio for making castle of hologram 
+学習用ポートフォリオ
