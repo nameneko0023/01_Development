@@ -1,0 +1,21 @@
+/*背景色をアクアマリンにする*/
+body{
+    background-color: lightgreen;
+}
+
+/*見出しを中央揃えにする*/
+h1{
+    text-align: center;
+}
+
+/*フッターの制御*/
+footer{
+    /*文字配置*/
+    position: fixed;
+    text-align: center;
+    bottom: 0;
+    width: 100%;
+    /*フォント制御*/
+    font-size: 20px;
+    color: black;
+}
